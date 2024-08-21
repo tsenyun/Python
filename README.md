@@ -7,6 +7,14 @@ This repository showcases a diverse set of Python projects that I've developed t
 ## 💡Project List
 Explore the projects included in this repository:
 
+### 💹[Automating Crypto Website API Pull](https://github.com/tsenyun/Python/blob/main/Automating%20Crypto%20Website%20API%20Pull.ipynb)
+- Description: An automated solution for pulling cryptocurrency data from public APIs, ensuring real-time updates and trends.
+- Features:
+  - Connects to multiple cryptocurrency APIs.
+  - Processes and stores fetched data.
+  - Schedules regular data pulls for real-time updates.
+- Usage: Essential for investors and analysts, this project provides up-to-date cryptocurrency data for informed decision-making.
+
 ### 🛒[Amazon Web Scraping](https://github.com/tsenyun/Python/blob/main/Amazon%20Web%20Scraping.ipynb)
 - Description: A project that scrapes product details from Amazon, including names, prices, ratings, and reviews.
 - Features:
@@ -22,14 +30,6 @@ Explore the projects included in this repository:
     - Moves files to appropriate folders based on their extensions.
     - Runs periodically to keep directories organized.
 - Usage: Ideal for managing large directories, this project saves time and reduces clutter by automating the file organization process.
-
-### 💹[Automating Crypto Website API Pull](https://github.com/tsenyun/Python/blob/main/Automating%20Crypto%20Website%20API%20Pull.ipynb)
-- Description: An automated solution for pulling cryptocurrency data from public APIs, ensuring real-time updates and trends.
-- Features:
-  - Connects to multiple cryptocurrency APIs.
-  - Processes and stores fetched data.
-  - Schedules regular data pulls for real-time updates.
-- Usage: Essential for investors and analysts, this project provides up-to-date cryptocurrency data for informed decision-making.
 
 ### ⚖️[BMI Calculator](https://github.com/tsenyun/Python/blob/main/BMI%20Calculator.ipynb)
 - Description: A simple yet effective BMI (Body Mass Index) Calculator built using Python.
